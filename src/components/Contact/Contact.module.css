@@ -1,0 +1,41 @@
+.contenar {
+  display: flex;
+  align-items: center;
+  border: 2px solid;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  justify-content: space-between;
+}
+
+.btn {
+  padding: 10px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  margin-left: 150px;
+}
+
+.iconUser {
+  padding-right: 15px;
+}
+
+.iconPhone {
+  padding-right: 15px;
+}
+
+.contData {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.page {
+  font-size: 20px;
+  font-weight: 400;
+  color: black;
+  margin: 0;
+}

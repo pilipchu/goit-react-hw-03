@@ -1,0 +1,29 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  border: 2px solid;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+.btn {
+  width: 150px;
+  height: auto;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.input {
+  height: 20px;
+}
+
+.number {
+  margin-top: 30px;
+}
+
+.error {
+  color: red;
+  font-size: 20px;
+  font-weight: 500;
+}
